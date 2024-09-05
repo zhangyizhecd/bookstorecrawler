@@ -65,23 +65,19 @@ This project is a **Book Web Crawler** built to extract book information from we
 
 ![Books Display](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/2.png)
 
-**Figure 2: Adding a book with its title, web URL, and image URL**
-
-![Book Details](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/3.png)
-
-**Figure 3: Detailed view of a selected book, showing its title, web URL, and image URL, with options to update or delete the book.**
+**Figure 2: After adding the new book, you can view all book imformantion stored**
 
 ![Adding New Book](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/4.png)
 
-**Figure 4: Form to add a new book manually by providing its title, web URL, and image URL.**
+**Figure 3: Form to add a new book manually by providing its title, web URL, and image URL.**
 
 ![Updating Book](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/5.png)
 
-**Figure 5: Editing an existing book’s details, allowing the user to change the title, web URL, and image URL.**
+**Figure 4: Editing an existing book’s details, allowing the user to change the title, web URL, and image URL.**
 
 ![Book Deleted](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/6.png)
 
-**Figure 6: Confirmation message shown after successfully crawling of book information.**
+**Figure 5: Confirmation message shown after successfully crawling of book information.**
 
 
 ## Future Enhancements
