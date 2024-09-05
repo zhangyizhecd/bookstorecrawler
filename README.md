@@ -59,10 +59,30 @@ This project is a **Book Web Crawler** built to extract book information from we
     http://localhost:8080
     ```
 
-## Samples
-[Sample Image](https://github.com/zhangyizhecd/bookstorecrawler/blob/main/pics/1.png)
+![Crawler Start Page](https://github.com/zhangyizhecd/bookstorecrawler/blob/main/pics/1.png)
 
-https://github.com/zhangyizhecd/bookstorecrawler/blob/main/pics/1.png
+**Figure 1: The start page of the bookstore crawler application where users can enter a URL to begin parsing books.**
+
+![Books Display](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/2.png)
+
+**Figure 2: A display of books with their titles, images, and links after parsing from a given URL.**
+
+![Book Details](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/3.png)
+
+**Figure 3: Detailed view of a selected book, showing its title, web URL, and image URL, with options to update or delete the book.**
+
+![Adding New Book](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/4.png)
+
+**Figure 4: Form to add a new book manually by providing its title, web URL, and image URL.**
+
+![Updating Book](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/5.png)
+
+**Figure 5: Editing an existing book’s details, allowing the user to change the title, web URL, and image URL.**
+
+![Book Deleted](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/6.png)
+
+**Figure 6: Confirmation message shown after successfully deleting a book from the list.**
+
 
 ## Future Enhancements
 
