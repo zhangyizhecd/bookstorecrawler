@@ -59,6 +59,11 @@ This project is a **Book Web Crawler** built to extract book information from we
     http://localhost:8080
     ```
 
+## Samples
+![Sample Image]((https://github.com/zhangyizhecd/bookstorecrawler/blob/main/pics/1.png))
+
+https://github.com/zhangyizhecd/bookstorecrawler/blob/main/pics/1.png
+
 ## Future Enhancements
 
 - **Pagination**: For handling large sets of books.
