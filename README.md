@@ -65,7 +65,7 @@ This project is a **Book Web Crawler** built to extract book information from we
 
 ![Books Display](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/2.png)
 
-**Figure 2: A display of books with their titles, images, and links after parsing from a given URL.**
+**Figure 2: Adding a book with its title, web URL, and image URL**
 
 ![Book Details](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/3.png)
 
@@ -81,7 +81,7 @@ This project is a **Book Web Crawler** built to extract book information from we
 
 ![Book Deleted](https://raw.githubusercontent.com/zhangyizhecd/bookstorecrawler/main/pics/6.png)
 
-**Figure 6: Confirmation message shown after successfully deleting a book from the list.**
+**Figure 6: Confirmation message shown after successfully crawling of book information.**
 
 
 ## Future Enhancements
